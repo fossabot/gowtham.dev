@@ -15,7 +15,7 @@
 
       <div class="trigger">
         {% for page in site.pages %}
-          {% unless page.title contains "Posts tagged with" %}
+          {% unless page.title == nil or page.title contains "Posts tagged with" %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endunless %}
         {% endfor %}
