@@ -10,7 +10,7 @@ Also, while reading this blog please keep two things in mind:
 1. Sometimes we think that we're right about everything, but we're not. So, I may have made some mistakes here and there and it is open to criticism and improvement.
 2. I frequently change my mindset over a period of time. We may have a feeling about a particular thing at some point of time which may change in future. So, please ignore my opinions on technologies in older posts (only them) and make your own decision.
 
-I currently work at <a href="http://cognizant.com" title="Cognizant" rel="nofollow" target="_blank">Cognizant</a> and I studied Information Technology at <a href="http://kongu.ac.in" title="Kongu Engineering Website" rel="nofollow" target="_blank">Kongu Engineering College.</a>
+I currently work at Coda Global and I studied Information Technology at <a href="http://kongu.ac.in" title="Kongu Engineering Website" rel="nofollow" target="_blank">Kongu Engineering College.</a>
 
 Things I spend my time on:
 
